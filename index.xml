@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAO Assignment</title>
+    <link>/</link>
+    <description>Recent content on CAO Assignment</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 20 Apr 2021 21:57:11 +0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Resume</title>
+      <link>/post/mysecondpost/</link>
+      <pubDate>Tue, 20 Apr 2021 21:57:11 +0500</pubDate>
+      
+      <guid>/post/mysecondpost/</guid>
+      <description>Sumaiyyah&amp;rsquo;s Resume.pdf</description>
+    </item>
+    
+    <item>
+      <title>A Detailed Explanation of Task 1 &amp; Task 2</title>
+      <link>/post/myfirstpost/</link>
+      <pubDate>Tue, 20 Apr 2021 18:18:11 +0500</pubDate>
+      
+      <guid>/post/myfirstpost/</guid>
+      <description>The assignment was to create a 64-bits operating system. Following the 2 videos provided, we started with an x86 compatible OS which is multiboot2 compliant that most bootloaders support. Most of the code for the system is written in C along with some assembly language for the hardware parts. To set up we need the following tools:
+ Docker for the build environment qemu for emulating visual studio code gcc compiler to run c on visual studio code  The first step is to create a docker image.</description>
+    </item>
+    
+  </channel>
+</rss>
